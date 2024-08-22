@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1670167607 source:c:\users\lenovo\desktop\asd\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1667654078 c:\users\lenovo\desktop\asd\projet\controlesdesaisie.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1667654320 source:c:\users\lenovo\desktop\asd\projet\controlesdesaisie.c
+	"controlesdesaisie.h"
+
